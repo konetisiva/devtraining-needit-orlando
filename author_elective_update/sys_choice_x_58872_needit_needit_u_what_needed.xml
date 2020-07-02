@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-06-15 14:44:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>dedff859db4f4894387021c405961958</instance_id>
+        <instance_name>dev101030</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-06-15 14:44:45</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>x_58872_needit_needit.u_what_needed</record_name>
+        <reverted_from/>
+        <source>6f3b3cc02f911010d296d8492799b6e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>koneti</sys_created_by>
+        <sys_created_on>2020-06-15 14:44:45</sys_created_on>
+        <sys_id>7234e96f2f551010d296d8492799b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172b87096ac0000001</sys_recorded_at>
+        <sys_updated_by>koneti</sys_updated_by>
+        <sys_updated_on>2020-06-15 14:44:45</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>fa34e96f2c55101089e15e9f75febe78</update_guid>
+        <update_guid_history>fa34e96f2c55101089e15e9f75febe78:-429457270,b634e96f0f551010a75ce6ce02f5a775:1264701252,3634e96f96551010cce58fd0c64ea872:-1001554480,b234e96f8c551010dbb25e9f6eec976f:1291032590,3234e96fbb5510103e26c99da837356c:1977964177,be34e96fcb5510103b7f80830cdc7568:-1752887133,3e34e96f69551010c02f915eaecad765:103642638,ba34e96fc0551010ba55049e0858ee62:2515242,2b5784d841591010f75efa8fac16b39d:-1460202391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>koneti</sys_created_by>
+        <sys_created_on>2020-06-15 14:45:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>29446d6f2f551010d296d8492799b65b</sys_id>
+        <sys_metadata>29446d6f2f551010d296d8492799b65b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">7234e96f2f551010d296d8492799b679</sys_update_version>
+        <sys_updated_by>koneti</sys_updated_by>
+        <sys_updated_on>2020-06-15 14:45:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
